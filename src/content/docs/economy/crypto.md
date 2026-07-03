@@ -6,8 +6,8 @@ sidebar:
 ---
 
 Yumeko has a play-money crypto market with 20 coins (BTC, ETH and friends,
-down to stablecoins) tracking live real-world prices. No real money is
-involved, you trade with reds.
+down to stablecoins) tracking live real-world prices. No real money involved,
+you trade with your bot balance.
 
 ## Commands
 
@@ -16,8 +16,8 @@ All under `/crypto`:
 | Action | What it does |
 | --- | --- |
 | `prices` | Current prices for all 20 coins |
-| `buy` | Spend reds on a coin |
-| `sell` | Sell coins back to reds |
+| `buy` | Spend cash on a coin |
+| `sell` | Sell coins back to cash |
 | `portfolio` | Your holdings with profit and loss |
 | `history` | Your past trades |
 

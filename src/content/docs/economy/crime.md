@@ -5,8 +5,8 @@ sidebar:
   order: 3
 ---
 
-Crime pays big, but it fails often. Every job needs a minimum wallet balance,
-so you always have skin in the game.
+Crime pays big and fails often. Every job needs a minimum wallet balance, so
+you always have something to lose. That is the point.
 
 ## /steal
 

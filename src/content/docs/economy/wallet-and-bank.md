@@ -5,7 +5,8 @@ sidebar:
   order: 2
 ---
 
-Your money lives in two places.
+Your money lives in two places, and knowing the difference is the cheapest
+lesson in the whole bot. The expensive version is getting robbed.
 
 ## Wallet
 

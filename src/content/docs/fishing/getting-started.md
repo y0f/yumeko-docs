@@ -13,7 +13,7 @@ by itself for up to about 30 minutes while you do literally anything else.
 1. `/fish` casts your line.
 2. Chat, gamble, touch grass. The line fishes on its own.
 3. `/fishing collect` scoops your catches into your backpack.
-4. `/fishing sell` turns the whole backpack into reds.
+4. `/fishing sell` turns the whole backpack into cash.
 5. Repeat.
 
 ## Useful commands

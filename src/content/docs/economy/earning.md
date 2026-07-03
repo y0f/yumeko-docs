@@ -1,6 +1,6 @@
 ---
 title: Earning Money
-description: Every way to make reds, from safe daily income to risky heists.
+description: Every way to make money, from safe daily income to risky heists.
 sidebar:
   order: 1
 ---

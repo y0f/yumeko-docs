@@ -5,10 +5,13 @@ sidebar:
   order: 1
 ---
 
-Yumeko is a casino and economy bot for Discord. You earn a virtual currency
-called **reds** (shown as `R`, like `R10,000`), and you can spend it on
-gambling, businesses, crypto, fishing gear and more. It is all play money:
-nothing costs or pays real cash.
+Yumeko is a casino and economy bot for Discord. You earn play money and blow
+it on gambling, businesses, crypto, fishing gear and whatever else looks
+shiny. None of it is real cash, so the only thing on the line is your pride.
+
+Amounts show up with your server's own currency symbol. In this guide we
+write `R10,000`, but your server might use `$`, `kr` or something cursed the
+admins picked. Same money, different hat.
 
 ## The basics
 

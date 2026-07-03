@@ -5,8 +5,8 @@ sidebar:
   order: 1
 ---
 
-Yumeko has 16 gambling games. All bets come from your **wallet**, all wins go
-straight back into it.
+Yumeko has 16 ways to gamble. All bets come out of your **wallet**, all wins
+go straight back in, and the leaderboard remembers everything.
 
 ## Betting basics
 

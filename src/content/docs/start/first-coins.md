@@ -1,12 +1,11 @@
 ---
 title: Your First Coins
-description: The fastest safe ways to earn reds when you start out.
+description: The fastest safe ways to earn cash when you start out.
 sidebar:
   order: 2
 ---
 
-You start with an empty wallet. Here is how to fix that without gambling
-anything away.
+You start broke. Here is how to fix that without gambling anything away.
 
 ## Free money, every day
 
