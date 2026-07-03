@@ -1,0 +1,36 @@
+---
+title: Yumeko
+description: Player guide for Yumeko, the Discord casino and economy bot.
+template: splash
+hero:
+  tagline: Earn reds, gamble them away, catch fish, climb the leaderboard. Everything you can do with Yumeko, explained simply.
+  actions:
+    - text: Get started
+      link: /yumeko-docs/start/welcome/
+      icon: right-arrow
+    - text: Browse the games
+      link: /yumeko-docs/games/overview/
+      icon: seti:crystal
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<Card title="Earn money" icon="approve-check">
+		Claim your daily, work a job, beg on the street, or run a heist. Start with
+		`/daily` and go from there.
+	</Card>
+	<Card title="Play games" icon="seti:crystal">
+		Blackjack, mines, crash, slots, horse racing and a dozen more. All odds are
+		listed in this guide, nothing is hidden.
+	</Card>
+	<Card title="Go fishing" icon="star">
+		Cast a line with `/fish` and let it run while you chat. Level up, unlock
+		zones, fight bosses, complete your journal.
+	</Card>
+	<Card title="Climb the ranks" icon="rocket">
+		Every command and every win earns XP. Check `/rank`, chase the
+		`/leaderboard`, and show off your collectibles.
+	</Card>
+</CardGrid>
