@@ -31,6 +31,12 @@ admins picked. Same money, different hat.
 4. Try a small `/coinflip` or open the [games overview](/yumeko-docs/games/overview/).
 5. Cast a fishing line with `/fish` and forget about it for a while.
 
+## Where to find Yumeko
+
+Yumeko lives at [yumeko.67.al](https://yumeko.67.al/), and the home server is
+one click away: [join the Discord](https://discord.gg/wQqDqkTUM8). That is
+where the action, the events and the flexing happen.
+
 ## Handy commands
 
 | Command | What it does |

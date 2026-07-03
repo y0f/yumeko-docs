@@ -10,7 +10,11 @@ export default defineConfig({
 		starlight({
 			title: 'Yumeko',
 			description: 'Player guide for the Yumeko Discord bot.',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/y0f/yumeko-docs' }],
+			social: [
+				{ icon: 'discord', label: 'Join the server', href: 'https://discord.gg/wQqDqkTUM8' },
+				{ icon: 'external', label: 'Yumeko site', href: 'https://yumeko.67.al/' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/y0f/yumeko-docs' },
+			],
 			sidebar: [
 				{
 					label: 'Start Here',
