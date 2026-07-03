@@ -12,8 +12,8 @@ You start broke. Here is how to fix that without gambling anything away.
 | Command | Cooldown | Pays |
 | --- | --- | --- |
 | `/daily` | 24 hours | R10,000 base, more with a streak |
-| `/work` | 5 minutes | R20,000 to R150,000 |
-| `/beg` | 5 minutes | R5,000 to R50,000 |
+| `/work` | 5 minutes | R200 to R1,500 |
+| `/beg` | 5 minutes | R50 to R500 |
 | `/scratch` | 24 hours | Free scratch card, can win cash or items |
 | `/vote` | per site | Vote for the bot on listing sites for rewards |
 

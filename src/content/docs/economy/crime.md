@@ -12,9 +12,9 @@ you always have something to lose. That is the point.
 
 Pickpocket a random NPC.
 
-- **Cooldown:** 15 minutes. **Needs:** R50,000 in your wallet.
-- **55% success:** win R50,000 to R1,000,000.
-- **Fail:** pay a R50,000 fine.
+- **Cooldown:** 15 minutes. **Needs:** R500 in your wallet.
+- **55% success:** win R500 to R10,000.
+- **Fail:** pay a R500 fine.
 - Small bonus: 5% chance to find a Bank Heist Card when you succeed.
 
 ## /rob
@@ -22,7 +22,7 @@ Pickpocket a random NPC.
 Rob a real player's wallet.
 
 - **Cooldown:** 30 minutes. **Needs:** you and the target both hold at least
-  R100,000 in wallet.
+  R1,000 in wallet.
 - **40% success:** take 5% to 15% of their wallet.
 - **Fail:** you pay them 10% of your wallet. Embarrassing.
 - Targets holding a **Rob Shield** cannot be robbed.
@@ -31,9 +31,9 @@ Rob a real player's wallet.
 
 Solo bank job, high stakes.
 
-- **Cooldown:** 4 hours. **Needs:** R500,000 in your wallet.
-- **35% success:** win R1,000,000 to R7,500,000.
-- **Fail:** pay R500,000 bail.
+- **Cooldown:** 4 hours. **Needs:** R5,000 in your wallet.
+- **35% success:** win R10,000 to R75,000.
+- **Fail:** pay R5,000 bail.
 - 10% chance to find a Bank Heist Card on success.
 
 ## /bankheist (co-op)

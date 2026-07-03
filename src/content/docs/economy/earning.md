@@ -12,8 +12,8 @@ No risk, only cooldowns.
 | Command | Cooldown | Pays |
 | --- | --- | --- |
 | `/daily` | 24h | R10,000 base, +10% per streak day, double from day 7 |
-| `/work` | 5 min | R20,000 to R150,000 |
-| `/beg` | 5 min | R5,000 to R50,000 |
+| `/work` | 5 min | R200 to R1,500 |
+| `/beg` | 5 min | R50 to R500 |
 | `/scratch` | 24h | Free scratch card |
 | `/vote` | per site | Voting rewards, streaks pay more |
 | `/collect` | instant | Claims all of the above plus business income at once |
@@ -24,9 +24,9 @@ These can fail and cost you money. Full details in [Crime](/yumeko-docs/economy/
 
 | Command | Cooldown | Success | Win | Lose |
 | --- | --- | --- | --- | --- |
-| `/steal` | 15 min | 55% | R50,000 to R1,000,000 | R50,000 fine |
+| `/steal` | 15 min | 55% | R500 to R10,000 | R500 fine |
 | `/rob` | 30 min | 40% | 5-15% of the target's wallet | 10% of your wallet to them |
-| `/heist` | 4h | 35% | R1,000,000 to R7,500,000 | R500,000 bail |
+| `/heist` | 4h | 35% | R10,000 to R75,000 | R5,000 bail |
 | `/bankheist` | needs card | 50% | up to R600,000 each | R10,000 bail each |
 
 ## Passive income
