@@ -38,9 +38,15 @@ heists and lucky wins. They range from common to mythic. Show them off in
 ## The black market
 
 Big gambling wins occasionally drop a **Black Market Pass**. `/blackmarket`
-spends the pass to meet a shady one-time trader offering three rare
-collectibles. Pick one to buy, then the trader vanishes. The pass is used the
-moment you open the market, so choose before you peek away.
+spends the pass on a shady one-time trader who slides three face-down boxes
+across the table. You cannot see what is in any of them. Pick one and it is
+yours, for free. The pass is the whole price.
+
+What you get is weighted by value: cheaper collectibles come up often, the
+priciest ones are rare, so a big score is a genuine jackpot. Every box is
+revealed after you pick, so you always see what you could have had. The pass is
+used the moment you open the market, and if you wander off a box is picked for
+you, so a pass is never wasted.
 
 ## Selling
 

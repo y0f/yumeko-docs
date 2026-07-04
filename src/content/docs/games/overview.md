@@ -21,7 +21,7 @@ go straight back in, and the leaderboard remembers everything.
 | Style | Games |
 | --- | --- |
 | Instant, simple | [Coinflip and Dice](/yumeko-docs/games/coinflip-and-dice/) |
-| Card tables | [Blackjack](/yumeko-docs/games/blackjack/), [Baccarat](/yumeko-docs/games/baccarat/) |
+| Card tables | [Blackjack](/yumeko-docs/games/blackjack/), [Baccarat](/yumeko-docs/games/baccarat/), [Three Card Poker](/yumeko-docs/games/three-card-poker/) |
 | Cash out anytime | [Mines](/yumeko-docs/games/mines/), [Dragon Tower](/yumeko-docs/games/dragon-tower/), [Chicken](/yumeko-docs/games/chicken/), [Crash](/yumeko-docs/games/crash/) |
 | Pure luck, big spikes | [Plinko](/yumeko-docs/games/plinko/), [Wheel](/yumeko-docs/games/wheel/), [Slots](/yumeko-docs/games/slots/) |
 | Play together | [Crash](/yumeko-docs/games/crash/), [Horse Racing](/yumeko-docs/games/horse-racing/), [Monopoly](/yumeko-docs/games/monopoly/), Bank Heist |
