@@ -20,12 +20,12 @@ go straight back in, and the leaderboard remembers everything.
 
 | Style | Games |
 | --- | --- |
-| Instant, simple | [Coinflip and Dice](/yumeko-docs/games/coinflip-and-dice/) |
-| Card tables | [Blackjack](/yumeko-docs/games/blackjack/), [Baccarat](/yumeko-docs/games/baccarat/), [Three Card Poker](/yumeko-docs/games/three-card-poker/), [Video Poker](/yumeko-docs/games/video-poker/) |
-| Cash out anytime | [Mines](/yumeko-docs/games/mines/), [Dragon Tower](/yumeko-docs/games/dragon-tower/), [Chicken](/yumeko-docs/games/chicken/), [Crash](/yumeko-docs/games/crash/) |
-| Pure luck, big spikes | [Plinko](/yumeko-docs/games/plinko/), [Wheel](/yumeko-docs/games/wheel/), [Slots](/yumeko-docs/games/slots/) |
-| Play together | [Crash](/yumeko-docs/games/crash/), [Horse Racing](/yumeko-docs/games/horse-racing/), [Monopoly](/yumeko-docs/games/monopoly/), Bank Heist |
-| Co-op crime | [Bank Heist](/yumeko-docs/economy/crime/#bankheist-co-op) |
+| Instant, simple | [Coinflip and Dice](/docs/games/coinflip-and-dice/) |
+| Card tables | [Blackjack](/docs/games/blackjack/), [Baccarat](/docs/games/baccarat/), [Three Card Poker](/docs/games/three-card-poker/), [Video Poker](/docs/games/video-poker/) |
+| Cash out anytime | [Mines](/docs/games/mines/), [Dragon Tower](/docs/games/dragon-tower/), [Chicken](/docs/games/chicken/), [Crash](/docs/games/crash/) |
+| Pure luck, big spikes | [Plinko](/docs/games/plinko/), [Wheel](/docs/games/wheel/), [Slots](/docs/games/slots/) |
+| Play together | [Crash](/docs/games/crash/), [Horse Racing](/docs/games/horse-racing/), [Monopoly](/docs/games/monopoly/), Bank Heist |
+| Co-op crime | [Bank Heist](/docs/economy/crime/#bankheist-co-op) |
 
 ## About the odds
 
@@ -34,5 +34,5 @@ tables are Dragon Tower and Mines (the house keeps around 1% or less on
 average). Wheel and slots swing much harder: bigger jackpots, worse average.
 Odds for each game are on its page, nothing is hidden.
 
-Winning a game also earns you bonus XP for [leveling](/yumeko-docs/more/leveling/).
+Winning a game also earns you bonus XP for [leveling](/docs/more/leveling/).
 Big wins can even drop rare items like the Black Market Pass.

@@ -37,4 +37,4 @@ times your bet. It is the rarest event in the bot: 1 in 100 for bonus, then
 The wheel keeps a bigger cut than most games here (roughly 12% on average).
 Nearly half of all spins pay zero. Play it for the bonus chase, not for
 steady profit. Grinders should look at
-[Dragon Tower](/yumeko-docs/games/dragon-tower/) or [Mines](/yumeko-docs/games/mines/) instead.
+[Dragon Tower](/docs/games/dragon-tower/) or [Mines](/docs/games/mines/) instead.

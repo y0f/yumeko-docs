@@ -28,7 +28,7 @@ admins picked. Same money, different hat.
 1. `/daily` for your first R10,000.
 2. `/work` and `/beg` whenever they are off cooldown for steady income.
 3. `/deposit all` so nobody robs you.
-4. Try a small `/coinflip` or open the [games overview](/yumeko-docs/games/overview/).
+4. Try a small `/coinflip` or open the [games overview](/docs/games/overview/).
 5. Cast a fishing line with `/fish` and forget about it for a while.
 
 ## Where to find Yumeko

@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://y0f.github.io',
-	base: '/yumeko-docs',
+	site: 'https://yumeko.67.al',
+	base: '/docs',
 	integrations: [
 		starlight({
 			title: 'Yumeko',
@@ -13,7 +13,6 @@ export default defineConfig({
 			social: [
 				{ icon: 'discord', label: 'Join the server', href: 'https://discord.gg/wQqDqkTUM8' },
 				{ icon: 'external', label: 'Yumeko site', href: 'https://yumeko.67.al/' },
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/y0f/yumeko-docs' },
 			],
 			sidebar: [
 				{

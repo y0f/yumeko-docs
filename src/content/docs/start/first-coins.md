@@ -39,4 +39,4 @@ early:
 
 Once your bank grows, riskier income unlocks: `/steal`, `/heist` and robbing
 other players. Those can lose you money, so read
-[Crime](/yumeko-docs/economy/crime/) first.
+[Crime](/docs/economy/crime/) first.

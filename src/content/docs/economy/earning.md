@@ -20,7 +20,7 @@ No risk, only cooldowns.
 
 ## Risky income
 
-These can fail and cost you money. Full details in [Crime](/yumeko-docs/economy/crime/).
+These can fail and cost you money. Full details in [Crime](/docs/economy/crime/).
 
 | Command | Cooldown | Success | Win | Lose |
 | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ These can fail and cost you money. Full details in [Crime](/yumeko-docs/economy/
 - **Businesses.** Buy them in `/shop`. Each pays a share of its price every
   day. Claim with `/collect`.
 - **Fishing.** An idle line catches fish while you do other things. See the
-  [fishing guide](/yumeko-docs/fishing/getting-started/).
+  [fishing guide](/docs/fishing/getting-started/).
 - **Server boosting.** Boosting the home server gives you a Nitro Shard worth
   R30,000 every 24 hours through `/collect`.
 - **VIP.** A team-granted VIP membership pays R50,000 every 12 hours through
