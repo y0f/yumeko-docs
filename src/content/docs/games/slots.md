@@ -2,7 +2,7 @@
 title: Slots
 description: Two slot machines, Neko Strike and Grave Reels.
 sidebar:
-  order: 13
+  order: 14
 ---
 
 Both machines use a fixed bet ladder instead of free bet amounts:

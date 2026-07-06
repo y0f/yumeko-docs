@@ -2,7 +2,7 @@
 title: Monopoly
 description: Bingo-style card game with bonus balls and multipliers.
 sidebar:
-  order: 12
+  order: 13
 ---
 
 `/monopoly` (and its variant `/monopoly-q`) plays like bingo: you get a card,

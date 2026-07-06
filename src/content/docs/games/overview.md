@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-Yumeko has 17 ways to gamble. All bets come out of your **wallet**, all wins
+Yumeko has 18 ways to gamble. All bets come out of your **wallet**, all wins
 go straight back in, and the leaderboard remembers everything.
 
 ## Betting basics
@@ -24,7 +24,7 @@ go straight back in, and the leaderboard remembers everything.
 | Card tables | [Blackjack](/docs/games/blackjack/), [Baccarat](/docs/games/baccarat/), [Three Card Poker](/docs/games/three-card-poker/), [Video Poker](/docs/games/video-poker/) |
 | Cash out anytime | [Mines](/docs/games/mines/), [Dragon Tower](/docs/games/dragon-tower/), [Chicken](/docs/games/chicken/), [Crash](/docs/games/crash/) |
 | Pure luck, big spikes | [Plinko](/docs/games/plinko/), [Wheel](/docs/games/wheel/), [Slots](/docs/games/slots/) |
-| Play together | [Crash](/docs/games/crash/), [Horse Racing](/docs/games/horse-racing/), [Monopoly](/docs/games/monopoly/), Bank Heist |
+| Play together | [Crash](/docs/games/crash/), [Horse Racing](/docs/games/horse-racing/), [Roulette](/docs/games/roulette/), [Monopoly](/docs/games/monopoly/), Bank Heist |
 | Co-op crime | [Bank Heist](/docs/economy/crime/#bankheist-co-op) |
 
 ## About the odds
