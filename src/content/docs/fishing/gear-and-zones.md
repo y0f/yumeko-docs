@@ -28,43 +28,44 @@ Buy in `/fishing shop`, equip with `/fishing rod`. Each tier needs a higher leve
 
 ## Bait
 
-Equip with `/fishing bait`. Most bait drops while you fish (about 1 catch in 5) or
-is crafted from spare fish with `/fishing craft`. The three priced lures are bought
-with `/fishing buybait` (up to 1000 at a time); the rest are drop-only.
+Equip with `/fishing bait`. Bait is consumed one per catch, so it only pays off
+where the fish are worth enough to cover it, which means the higher zones. Cheap
+common bait drops while you fish (about 1 catch in 5) or is crafted from spare fish
+with `/fishing craft`; the stronger lures are bought with `/fishing buybait` (up to
+1000 at a time).
 
-| Bait | Source | Rare | Value | XP |
+| Bait | Value | Rare | XP | Price |
 | --- | --- | --- | --- | --- |
-| Earthworm | drop | +0% | +0% | +0% |
-| Grub | drop | +1% | +0% | +2% |
-| Minnow | drop | +2% | +3% | +2% |
-| Cricket | drop | +2% | +2% | +3% |
-| Shrimp | drop | +4% | +6% | +3% |
-| Leech | drop | +5% | +4% | +4% |
-| Roe | drop | +6% | +8% | +4% |
-| Squid Strip | drop | +9% | +10% | +6% |
-| Dragonfly | drop | +10% | +8% | +8% |
-| Glowworm | drop | +16% | +14% | +10% |
-| Magic Lure | R200,000 | +22% | +18% | +12% |
-| Golden Bait | R1,200,000 | +35% | +30% | +18% |
-| Celestial Bait | R6,000,000 | +55% | +45% | +30% |
+| Spinner Bait | +5% | +3% | +4% | R300 |
+| Plankton Cloud | +10% | +12% | +8% | R700 |
+| Glowworm | +14% | +16% | +10% | R1,000 |
+| Magic Lure | +18% | +22% | +12% | R1,400 |
+| Chum Bucket | +20% | +18% | +12% | R1,600 |
+| Golden Bait | +30% | +35% | +18% | R2,400 |
+| Void Pellet | +35% | +30% | +20% | R2,800 |
+| Celestial Bait | +45% | +55% | +30% | R3,500 |
 
-Roe biases the pool toward salmon.
+On the top lures the rare bonus is the real draw: it pushes you toward the rare,
+high-value catches. Roe, a common drop, biases the pool toward salmon.
 
 ## Zones
 
-`/fishing travel` moves between zones. Each has its own species and a sell bonus
-paid on fish sold there.
+`/fishing travel` moves between zones, each with its own species pool. Fish are
+valued at your current zone's sell bonus at the moment you sell, not where you
+caught them, but the bonus is small everywhere, so there is no reason to haul a
+catch to another zone to sell it. Higher zones pay off through better fish, not a
+bigger sell bonus.
 
 | Zone | Level | Sell bonus |
 | --- | --- | --- |
 | Tranquil Pond | 1 | +0% |
-| Winding River | 5 | +5% |
-| Misty Lake | 12 | +10% |
-| Open Ocean | 22 | +18% |
-| Coral Reef | 32 | +28% |
-| The Deep | 45 | +42% |
-| Sunken City | 60 | +60% |
-| Celestial Rift | 80 | +90% |
+| Winding River | 5 | +1% |
+| Misty Lake | 12 | +2% |
+| Open Ocean | 22 | +3% |
+| Coral Reef | 32 | +4% |
+| The Deep | 45 | +5% |
+| Sunken City | 60 | +6% |
+| Celestial Rift | 80 | +8% |
 
 ## Weather, time, hotspots
 

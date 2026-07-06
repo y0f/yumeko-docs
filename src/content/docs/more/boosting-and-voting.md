@@ -18,14 +18,17 @@ sidebar:
 
 Boost the bot's home server with Discord Nitro and you get a **Nitro Shard**:
 
-- Pays **R30,000 every 24 hours**, claimed through `/collect`.
-- Shows as a badge in your `/inventory view`.
-- It stays as long as your boost does, and vanishes when the boost ends.
+- Pays **R30,000 every 24 hours** through `/collect`.
+- The money lands in the server where you run `/collect`. One claim per 24 hours
+  total, so it cannot be farmed across servers.
+- Shows a 💎 badge in `/inventory` while you are boosting, and vanishes when the
+  boost ends.
 
 ## VIP
 
 Handed out by the team:
 
 - Pays **R50,000 every 12 hours** through `/collect`.
-- One claim per interval, shared across every server.
-- Shows a VIP badge wherever you play.
+- The money lands in the server where you run `/collect`. One claim per 12 hours
+  total, so it cannot be farmed across servers.
+- Shows a ⭐ VIP badge in `/inventory` wherever you play.
