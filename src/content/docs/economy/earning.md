@@ -36,7 +36,9 @@ These can fail and cost you money. Full details in [Crime](/yumeko-docs/economy/
 - **Fishing.** An idle line catches fish while you do other things. See the
   [fishing guide](/yumeko-docs/fishing/getting-started/).
 - **Server boosting.** Boosting the home server gives you a Nitro Shard worth
-  R5,000 every 24 hours through `/collect`.
+  R30,000 every 24 hours through `/collect`.
+- **VIP.** A team-granted VIP membership pays R50,000 every 12 hours through
+  `/collect`.
 
 ## Tips
 
