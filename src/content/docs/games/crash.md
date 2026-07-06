@@ -11,8 +11,8 @@ multiplier, everyone still riding loses their bet.
 
 ## How a round works
 
-1. A **15-second betting window** opens. Join with the quick buttons (R100,
-   R500, R1k, R5k) or a custom amount.
+1. A **15-second betting window** opens. Join with the quick buttons (100,
+   500, 1k, 5k) or a custom amount.
 2. The rocket launches and the multiplier climbs.
 3. Hit **cash out** any time to lock your bet times the current multiplier.
 4. Crash. Survivors paid, riders rekt, next round.

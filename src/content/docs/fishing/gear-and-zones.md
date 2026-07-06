@@ -19,34 +19,38 @@ Buy in `/fishing shop`, equip with `/fishing rod`. Each tier needs a higher leve
 | Rod | Level | Price | Rare | Value | Multi-catch | XP |
 | --- | --- | --- | --- | --- | --- | --- |
 | Old Rod (starter) | 1 | Free | +0% | +0% | +0% | +0% |
-| Sturdy Rod | 3 | R25,000 | +5% | +5% | +3% | +5% |
-| Carbon Rod | 8 | R150,000 | +10% | +10% | +5% | +10% |
-| Pro Rod | 15 | R600,000 | +18% | +15% | +8% | +15% |
-| Golden Rod | 28 | R2,500,000 | +28% | +25% | +12% | +20% |
-| Diamond Rod | 45 | R9,000,000 | +40% | +35% | +18% | +30% |
-| Celestial Rod | 70 | R40,000,000 | +60% | +50% | +25% | +50% |
+| Sturdy Rod | 3 | 25,000 | +5% | +5% | +3% | +5% |
+| Carbon Rod | 8 | 150,000 | +10% | +10% | +5% | +10% |
+| Pro Rod | 15 | 600,000 | +18% | +15% | +8% | +15% |
+| Golden Rod | 28 | 2,500,000 | +28% | +25% | +12% | +20% |
+| Diamond Rod | 45 | 9,000,000 | +40% | +35% | +18% | +30% |
+| Celestial Rod | 70 | 40,000,000 | +60% | +50% | +25% | +50% |
 
 ## Bait
 
-Equip with `/fishing bait`. Bait is consumed one per catch, so it only pays off
-where the fish are worth enough to cover it, which means the higher zones. Cheap
-common bait drops while you fish (about 1 catch in 5) or is crafted from spare fish
-with `/fishing craft`; the stronger lures are bought with `/fishing buybait` (up to
+Equip with `/fishing bait`. Cheap common bait drops free while you fish (about 1
+catch in 5) or is crafted from spare fish with `/fishing craft`, so you rarely need
+to buy the low tiers. The stronger lures are bought with `/fishing buybait` (up to
 1000 at a time).
+
+Everything up to Glowworm can drop free while you fish; the lures above it are
+buy-only. Bait is consumed one per cast and priced at about what the extra value and
+rare catches it brings are worth at the top zone, so it roughly pays for itself. It
+is a small edge for chasing rare fish and filling your journal, not free profit.
 
 | Bait | Value | Rare | XP | Price |
 | --- | --- | --- | --- | --- |
-| Spinner Bait | +5% | +3% | +4% | R300 |
-| Plankton Cloud | +10% | +12% | +8% | R700 |
-| Glowworm | +14% | +16% | +10% | R1,000 |
-| Magic Lure | +18% | +22% | +12% | R1,400 |
-| Chum Bucket | +20% | +18% | +12% | R1,600 |
-| Golden Bait | +30% | +35% | +18% | R2,400 |
-| Void Pellet | +35% | +30% | +20% | R2,800 |
-| Celestial Bait | +45% | +55% | +30% | R3,500 |
+| Spinner Bait | +1% | +2% | +2% | 100 |
+| Plankton Cloud | +3% | +4% | +3% | 250 |
+| Glowworm | +4% | +5% | +4% | 350 |
+| Magic Lure | +6% | +8% | +5% | 550 |
+| Chum Bucket | +7% | +9% | +6% | 600 |
+| Golden Bait | +9% | +11% | +8% | 800 |
+| Void Pellet | +10% | +13% | +9% | 900 |
+| Celestial Bait | +12% | +15% | +12% | 1,050 |
 
-On the top lures the rare bonus is the real draw: it pushes you toward the rare,
-high-value catches. Roe, a common drop, biases the pool toward salmon.
+The rare bonus is the real draw on the top lures: it tilts you toward the rarest,
+priciest fish. Roe, a common drop, biases the pool toward salmon.
 
 ## Zones
 

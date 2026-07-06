@@ -6,7 +6,7 @@ sidebar:
 ---
 
 Both machines use a fixed bet ladder instead of free bet amounts:
-**R1,000 / R5,000 / R10,000 / R25,000 / R50,000**.
+**1,000 / 5,000 / 10,000 / 25,000 / 50,000**.
 
 ## Neko Strike (`/slots neko`)
 

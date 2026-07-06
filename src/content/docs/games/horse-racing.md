@@ -6,7 +6,7 @@ sidebar:
 ---
 
 `/horse` starts a race everyone in the channel can bet on. A **15-second
-betting window** opens, you pick a horse and an amount (R1 minimum), then the
+betting window** opens, you pick a horse and an amount (1 minimum), then the
 race plays out live.
 
 ## The field

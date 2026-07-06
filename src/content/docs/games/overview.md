@@ -10,8 +10,8 @@ go straight back in, and the leaderboard remembers everything.
 
 ## Betting basics
 
-- **Bet limits:** R1 minimum, R1,000,000 maximum for most games. Coinflip and
-  dice go up to R5,000,000.
+- **Bet limits:** 1 minimum, 1,000,000 maximum for most games. Coinflip and
+  dice go up to 5,000,000.
 - **Shorthand works everywhere:** `10k`, `1m`, `all`, `half`.
 - **Items that help:** a Lucky Charm adds 25% to your next win, Insurance
   refunds half of your next loss. Use them before you play.

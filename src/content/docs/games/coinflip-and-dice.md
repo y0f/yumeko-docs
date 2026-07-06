@@ -7,7 +7,7 @@ sidebar:
 
 ## /coinflip
 
-Pick heads or tails, bet anything from R1 to **R5,000,000**.
+Pick heads or tails, bet anything from 1 to **5,000,000**.
 
 - Win: **2x** your bet.
 - Lose: bet gone.
@@ -20,12 +20,12 @@ You and the bot each roll a die. Higher roll wins.
 - Win: **2x** your bet.
 - Tie: your bet comes back, no harm done.
 - Lose: bet gone.
-- Same R5,000,000 max as coinflip.
+- Same 5,000,000 max as coinflip.
 
 ### Loaded Dice
 
 The **Loaded Dice** item (from the shop) tilts your next dice game: your roll
-leans high, the bot's leans low. It only works on bets up to R25,000, so no
+leans high, the bot's leans low. It only works on bets up to 25,000, so no
 free millions.
 
 ## Why play these

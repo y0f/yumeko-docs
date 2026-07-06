@@ -11,9 +11,9 @@ No risk, only cooldowns.
 
 | Command | Cooldown | Pays |
 | --- | --- | --- |
-| `/daily` | 24h | R10,000 base, +10% per streak day, double from day 7 |
-| `/work` | 5 min | R200 to R1,500 |
-| `/beg` | 5 min | R50 to R500 |
+| `/daily` | 24h | 10,000 base, +10% per streak day, double from day 7 |
+| `/work` | 5 min | 200 to 1,500 |
+| `/beg` | 5 min | 50 to 500 |
 | `/scratch` | 24h | Free scratch card |
 | `/vote` | per site | Voting rewards, streaks pay more |
 | `/collect` | instant | Claims all of the above plus business income at once |
@@ -24,10 +24,10 @@ These can fail and cost you money. Full details in [Crime](/docs/economy/crime/)
 
 | Command | Cooldown | Success | Win | Lose |
 | --- | --- | --- | --- | --- |
-| `/steal` | 15 min | 55% | R500 to R10,000 | R500 fine |
+| `/steal` | 15 min | 55% | 500 to 10,000 | 500 fine |
 | `/rob` | 30 min | 40% | 5-15% of the target's wallet | 10% of your wallet to them |
-| `/heist` | 4h | 35% | R10,000 to R75,000 | R5,000 bail |
-| `/bankheist` | needs card | 50% | up to R600,000 each | R10,000 bail each |
+| `/heist` | 4h | 35% | 10,000 to 75,000 | 5,000 bail |
+| `/bankheist` | needs card | 50% | up to 600,000 each | 10,000 bail each |
 
 ## Passive income
 
@@ -36,8 +36,8 @@ These can fail and cost you money. Full details in [Crime](/docs/economy/crime/)
 - **Fishing.** An idle line catches fish while you do other things. See the
   [fishing guide](/docs/fishing/getting-started/).
 - **Server boosting.** Boosting the home server gives you a Nitro Shard worth
-  R30,000 every 24 hours through `/collect`.
-- **VIP.** A team-granted VIP membership pays R50,000 every 12 hours through
+  30,000 every 24 hours through `/collect`.
+- **VIP.** A team-granted VIP membership pays 50,000 every 12 hours through
   `/collect`.
 
 ## Tips

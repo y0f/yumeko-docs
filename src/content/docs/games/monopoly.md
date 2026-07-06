@@ -25,7 +25,7 @@ Some drawn balls are special:
 
 ## Betting
 
-Standard limits: R1 up to R1,000,000.
+Standard limits: 1 up to 1,000,000.
 
 ## Tips
 

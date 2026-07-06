@@ -18,7 +18,7 @@ your bet), the edges pay big.
 
 ## Betting
 
-- R1 minimum, R1,000,000 maximum.
+- 1 minimum, 1,000,000 maximum.
 - After each drop you get quick re-bet buttons: half, double, max, or a custom
   amount, so you can chain drops fast.
 

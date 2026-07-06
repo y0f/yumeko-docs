@@ -11,9 +11,9 @@ You start broke. Here is how to fix that without gambling anything away.
 
 | Command | Cooldown | Pays |
 | --- | --- | --- |
-| `/daily` | 24 hours | R10,000 base, more with a streak |
-| `/work` | 5 minutes | R200 to R1,500 |
-| `/beg` | 5 minutes | R50 to R500 |
+| `/daily` | 24 hours | 10,000 base, more with a streak |
+| `/work` | 5 minutes | 200 to 1,500 |
+| `/beg` | 5 minutes | 50 to 500 |
 | `/scratch` | 24 hours | Free scratch card, can win cash or items |
 | `/vote` | per site | Vote for the bot on listing sites for rewards |
 
@@ -23,7 +23,7 @@ one go, including business income and booster rewards.
 ## Daily streaks
 
 Claim `/daily` every day and it grows by 10% per day. From day 7 onward you get
-double, so R20,000 a day. Miss more than 48 hours and the streak resets, so
+double, so 20,000 a day. Miss more than 48 hours and the streak resets, so
 set a reminder.
 
 ## Keep it safe

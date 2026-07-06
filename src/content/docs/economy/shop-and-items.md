@@ -24,9 +24,9 @@ Activate these with `/use <item>`.
 | Rob Shield | Blocks the next rob against you (24h) |
 | Lucky Charm | Your next gambling win pays 25% extra |
 | Insurance | Your next gambling loss refunds half your bet |
-| Loaded Dice | Tilts your next `/dice` game in your favor (bets up to R25,000) |
+| Loaded Dice | Tilts your next `/dice` game in your favor (bets up to 25,000) |
 | Cooldown Reset | Instantly clears your income cooldowns |
-| Mystery Box | Random cash (R5k to R200k) or a random item |
+| Mystery Box | Random cash (5k to 200k) or a random item |
 | Heist Kit | Gives you a Bank Heist Card |
 
 ## Collectibles

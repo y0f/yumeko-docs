@@ -10,7 +10,7 @@ it on gambling, businesses, crypto, fishing gear and whatever else looks
 shiny. None of it is real cash, so the only thing on the line is your pride.
 
 Amounts show up with your server's own currency symbol. In this guide we
-write `R10,000`, but your server might use `$`, `kr` or something cursed the
+write `10,000`, but your server might use `$`, `kr` or something cursed the
 admins picked. Same money, different hat.
 
 ## The basics
@@ -20,12 +20,12 @@ admins picked. Same money, different hat.
 - **Everything is a slash command.** Type `/` in Discord and look for Yumeko's
   icon. `/help` shows every command in the bot.
 - **Typing amounts.** Anywhere the bot asks for an amount you can use
-  shorthand: `10k` is R10,000, `1m` is R1,000,000, and `all` or `half` use your
+  shorthand: `10k` is 10,000, `1m` is 1,000,000, and `all` or `half` use your
   current balance.
 
 ## Your first five minutes
 
-1. `/daily` for your first R10,000.
+1. `/daily` for your first 10,000.
 2. `/work` and `/beg` whenever they are off cooldown for steady income.
 3. `/deposit all` so nobody robs you.
 4. Try a small `/coinflip` or open the [games overview](/docs/games/overview/).

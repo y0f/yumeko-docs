@@ -30,7 +30,7 @@ Both accept `all`, `half` and shorthand like `250k` or `2m`.
 
 ## Rob protection
 
-- Robbers can only hit players with at least R100,000 in their wallet, and
+- Robbers can only hit players with at least 100,000 in their wallet, and
   they only take a cut of the **wallet**.
 - A **Rob Shield** item blocks the next rob attempt against you for 24 hours.
 - The lazy rule: `/deposit all` after every win.
